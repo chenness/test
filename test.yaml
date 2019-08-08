@@ -1,0 +1,19 @@
+email:
+      Host: 'smtp.139.com'
+      From: '13802887486@139.com'
+      Psw: '19911015c'
+      To: '791579210@qq.com'
+      Subject: 'ceshiyoujian'
+      Subject2: 'zheshiceshiyoujian'
+
+allurl:
+      testurl: 'http://192.168.203.151:15003/v1/freecall/web/member/13982134529'
+      header: {'token':'abcd1234'}
+      xlsxurl: 'C:\Users\Administrator\PycharmProjects\test\porttest\'
+
+canshu:
+      start: '2019-06-29'
+      end: '2019-07-30'
+      page: '2'
+      size: '2'
+
