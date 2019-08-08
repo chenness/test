@@ -4,7 +4,7 @@ import yaml
 yfile=open('test.yaml','r')
 canshudata=yaml.load(yfile)
 
-url='http://221.176.34.113:8761/andfans-activity/report/query'
+
 
 headars = {"Content-Type": "application/json;charset=UTF-8"}
 body={'start': '2019-06-29','end': '2019-07-30','page':'2','size':'2'}
